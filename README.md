@@ -8,3 +8,8 @@
 1. Download the File
 2. Put the File into the Mods Folder
 3. Put the right Fabric Version in.
+
+## Features
+- Damage = Fly Challenge
+- OneChunkChallenge
+- Only Dirt Challenge
