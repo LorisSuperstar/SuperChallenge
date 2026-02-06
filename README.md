@@ -20,5 +20,8 @@ You need Creative or Commands
 Open the CreativeInventory with E and go to the Operator Utilities Tab. There you will find Items that you can Right Click to Activate.
 ### Commands
 /give @s challenges:damagefly
+
 /give @s challenges:onechunk
+
 /give @s challenges:onlydirt
+
