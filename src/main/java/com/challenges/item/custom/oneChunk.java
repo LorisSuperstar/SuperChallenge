@@ -19,12 +19,10 @@ public class oneChunk extends Item {
 
         WorldBorder border = world.getWorldBorder();
 
-        //TODO: Teleport to End Portal Chunk                
+        //TODO: Teleport to End Portal Chunk
 
         border.setCenter(user.getX(), user.getZ());
         border.setSize(16);
-
-
 
         if (user.isSneaking()) {
             border.setSize(59999968.0);
