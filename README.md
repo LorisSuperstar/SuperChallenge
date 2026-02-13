@@ -1,5 +1,4 @@
 # SuperChallenge 
-- Inspiration from Bastighg Challenges.
 - Modloader: Fabric
 - Minecraft-Version: 1.21
 - Mappings: Yarn
